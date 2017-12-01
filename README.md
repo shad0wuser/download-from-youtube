@@ -1,2 +1,2 @@
 # download-from-youtube
-Download video and audio from Youtube
+Bash script for download video and audio from Youtube
